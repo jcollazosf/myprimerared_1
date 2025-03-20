@@ -1,0 +1,11 @@
+#bckcolor{
+    border: 1px black solid;
+    height: 50px;
+    width: 120px;
+    margin:auto;
+    border-radius: 10px;
+    text-align: center;
+    background: blue;
+    padding: 50px;
+    border-spacing: 50px;
+    }
